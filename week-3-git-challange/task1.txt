@@ -1,0 +1,36 @@
+**Task 1: Fork and Clone the Repository** step-by-step:
+
+---
+
+### ✅ **1. Fork the Repository**
+
+Go to this repository:
+🔗 [https://github.com/LondheShubham153/90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps)
+
+* In the top-right corner, click the **“Fork”** button.
+* Choose your personal GitHub account as the destination.
+* GitHub will create a copy of the repository under your username (e.g., `yourusername/90DaysOfDevOps`).
+
+---
+
+### ✅ **2. Clone Your Fork Locally**
+
+Once forked:
+
+1. **Copy the HTTPS URL** of *your forked repository*.
+   It should look like:
+   `https://github.com/yourusername/90DaysOfDevOps.git`
+
+2. **Open your terminal** and run:
+
+   ```bash
+   git clone https://github.com/yourusername/90DaysOfDevOps.git
+   ```
+
+3. **Navigate to the target directory** (adjust the path as needed):
+
+   ```bash
+   cd 90DaysOfDevOps/2025/git/01_Git_and_Github_Basics
+   ```
+
+
